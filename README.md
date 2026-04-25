@@ -1,6 +1,6 @@
 # Top Articles
 
-A curated list of good articles, talks, papers, repositories, and notes found on the internet.
+My "to read" notes translated into a list of articles
 
 ## Contents
 
